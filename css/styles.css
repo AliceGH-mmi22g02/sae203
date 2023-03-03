@@ -1,0 +1,107 @@
+
+body {
+  margin:0;
+  padding:0;
+  width: 100%;
+}
+header{
+  display:flex;
+  justify-content:space-between;
+  background-color:rgb(183,199,209);
+}
+header,main{
+  padding:15px;
+}
+header a,nav a{
+  text-decoration:none;
+  margin-left:20px;
+  color:rgb(29,33,45);
+}
+nav{
+  text-transform:uppercase;
+}
+#container-logo{
+  display:flex;
+  flex-direction:column;
+}
+#logo{
+  width:250px;
+}
+#logoJP{
+  position:absolute;
+  margin-left:145px;
+  margin-top:35px;
+  width:100px;
+}
+
+h1{
+  text-align:center;
+}
+main{
+  margin:0 auto;
+  margin-bottom: 100px;
+}
+
+/*Page personnage*/
+#container-personnages{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+
+}
+.personnage{
+  width:300px;
+  background-color:rgb(229,235,242);
+  padding:35px;
+  border-radius:10px;
+  margin:10px;
+}
+.img-carte{
+  max-width:200px;
+}
+.groupe-categorie{
+  display:flex;
+  align-items:center;
+  margin-bottom:16px;
+}
+.groupe-categorie p{
+  margin-left:15px;
+  margin-bottom:0;
+}
+#nom-affiliation{
+  display:block;
+}
+#arme{
+  margin-left:35px;
+  }
+.picto,.icon{
+  max-height:16px;
+}
+.icon{
+  margin-left:30px;
+}
+.couverture-jeu{
+  max-width:100px;
+}
+
+/*Page recherche*/
+#form{
+  width:300px;
+  height:225px;
+  padding:15px;
+  display:flex;
+  flex-direction:column;
+  background-color:rgb(229,235,242);
+  border-radius:10px;
+  text-align:center;
+}
+.form-content{
+  margin-top:25px;
+}
+footer{
+  position: fixed;
+  bottom:0;
+  width:100%;
+  color:#fff;
+  background-color:rgb(29,33,45);
+}
