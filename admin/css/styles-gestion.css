@@ -1,0 +1,44 @@
+h1,h2 {
+  text-align: center;
+}
+
+.bouton-gestion{
+  color: black;
+  background-color: lightGrey;
+  border: solid black 2px;
+  border-radius: 30px;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.personnage{
+  height:150px;
+}
+
+.couverture-jeu{
+  width:100px;
+}
+
+.container-form {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+
+.form-gestion, .form-ajout-modif{
+  padding:15px;
+  background-color:rgb(229,235,242);
+  border-radius:10px;
+}
+
+.form-gestion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-ajout-modif{
+  width: 300px;
+  height: 250px;
+}

@@ -1,0 +1,50 @@
+1,photoPerso01.png,Marth,Royaumes d'Altea,Lord,Épée,arme_epee.gif,,1
+2,photoPerso02.png,Shiida,Royaumes de Talys (Princesse),Chevalier Pégase,Lance,arme_lance.gif,,1
+3,photoPerso03.png,Tiki,Dragons Divins,Manakete,Dracopierre,arme_dracopierre.gif,,1
+4,photoPerso04.png,Sigurd,Royaume de Grannvale (Duché),Lord Chevalier ,"Lance, Épée",arme_lance.gif,arme_epee.gif,2
+5,photoPerso05.png,Deirdre,Royaume de Grannvale (Impératrice),Prêtresse ,"Tome, Bâton",arme_tome.gif,arme_baton.gif,2
+6,photoPerso06.png,Seliph,Royaume de Grannvale (Prince),Lord Junior ,Épée,arme_epee.gif,,2
+7,photoPerso07.png,Leif,Royaume de Leonster (Prince),Lord,Épée,arme_epee.gif,,3
+8,photoPerso08.png,Nanna,Royaume de Nordion (Princesse),Troubadour,"Épée, Bâton",arme_epee.gif,arme_baton.gif,3
+9,photoPerso09.png,Finn,Royaume de Leonster,Chevalier,Lance,arme_lance.gif,,3
+10,photoPerso10.png,Roy,Pherae (Marquis),Lord,Épée,arme_epee.gif,,4
+11,photoPerso11.png,Lilina,Ositia (Princesse),Mage,Tome,arme_tome.gif,,4
+12,photoPerso12.png,Sophia,Arcadia,Mage,Tome,arme_tome.gif,,4
+13,photoPerso13.png,Lyn,Caelin (Princesse),Lord,Épée,arme_epee.gif,,5
+14,photoPerso14.png,Eliwood,Pherae (Marquis),Lord,Épée,arme_epee.gif,,5
+15,photoPerso15.png,Hector,Ositia (Marquis),Lord,Hache,arme_hache.gif,,5
+16,photoPerso16.png,Eirika,Royaume de Renais (Princesse),Lord,Épée,arme_epee.gif,,6
+17,photoPerso17.png,Ephraim,Royaume de Renais (Prince),Lord,Lance,arme_lance.gif,,6
+18,photoPerso18.png,Seth,Royaume de Renais,Paladin,Lance,arme_lance.gif,,6
+19,photoPerso19.png,Ike,Crimea (Mercenaire),Rôdeur,Épée,arme_epee.gif,,7
+20,photoPerso20.png,Titania,Crimea (Mercenaire),Paladin,Hache,arme_hache.gif,,7
+21,photoPerso21.png,Soren,Crimea (Mercenaire),Mage,Tome,arme_tome.gif,,7
+22,photoPerso22.png,Micaiah,Daein (Liberation Army),Mage,Tome,arme_tome.gif,,8
+23,photoPerso23.png,Sothe,Daein (Liberation Army),Voleur,"Dague, Épée",arme_dague.gif,arme_epee.gif,8
+24,photoPerso24.png,Lucia,Daein (Liberation Army),Bretteur,Épée,arme_epee.gif,,8
+25,photoPerso25.png,Robin,Royaume d'Ylisse (Veilleurs),Stratège,"Épée, Tome",arme_epee.gif,arme_tome.gif,9
+26,photoPerso26.png,Chrom,Royaume d'Ylisse (Prince),Lord,Épée,arme_epee.gif,,9
+27,photoPerso27.png,Lucina,?,Lord,Épée,arme_epee.gif,,9
+28,photoPerso28.png,Cordelia,Royaume d'Ylisse (Veilleurs),Chevalier Pégase,Lance,arme_lance.gif,,9
+29,photoPerso29.png,Corrin,Royaumes d'Hoshido et de Nohr,Prince / Princesse (Nohr),"Épée, Dracopierre",arme_epee.gif,arme_dracopierre.gif,10
+30,photoPerso30.png,Azura,Royaumes d'Hoshido et de Nohr (Princesse),Danceuse,Lance,arme_lance.gif,,10
+31,photoPerso31.png,Xander,Royaumes de Nohr (Prince),Paladin,Épée,arme_epee.gif,,10
+32,photoPerso32.png,Ryoma,Royaumes d'Hoshido (Prince),Escrimeur,Épée,arme_epee.gif,,10
+33,photoPerso33.png,Alm,"Royaumes de Zofia, Délivrance (Mercenaire)",Combattant,Épée,arme_epee.gif,,11
+34,photoPerso34.png,Celica	,Royaume de Zofia,Prêtresse,"Épée, Tome",arme_epee.gif,arme_tome.gif,11
+35,photoPerso35.png,Duma,"Royaume de Rigel (Dieu, Dragons Divins)",Dieu Déchu,N/A,,,11
+36,photoPerso36.png,Mila,"Royaume de Zofia (Déesse, Dragon Divins)",N/A,N/A,,,11
+37,photoPerso37.png,Byleth,"Église de Seiros (Mercenaire, Professeur)",Roturier,Épée,arme_epee.gif,,12
+38,photoPerso38.png,Sothis,Déesse de Fódlan,N/A,N/A,,,12
+39,photoPerso39.png,Rhea,Église de Seiros (Archevêque),Archevêque,Épée,arme_epee.gif,,12
+40,photoPerso40.png,Edelgard,Empire Adrestien (Princesse),Noble,Hache,arme_hache.gif,,12
+41,photoPerso41.png,Alear,Lythos,Enfant Dragon,Épée,arme_epee.gif,,13
+42,photoPerso42.png,Veyle,?,Enfant Déchu,"Tome, Dague",arme_tome.gif,arme_dague.gif,13
+43,photoPerso43.png,Lumera,Lythos,Dragon Divin,N/A,,,13
+44,photoPerso44.png,Sommie,Lythos (Esprit Gardien),N/A,N/A,,,13
+45,photoPerso45.png,Alfonse,Royaume d'Askr (Prince),Lord,Épée,arme_epee.gif,,14
+46,photoPerso46.png,Sharena,Royaume d'Askr (Princesse),Princesse,Lance,arme_lance.gif,,14
+47,photoPerso47.png,Veronica,Embla (Princesse),Princesse,Tome,arme_tome.gif,,14
+48,photoPerso48.png,Eir,Hel (Princesse),Princesse,Dague,arme_dague.gif,,14
+49,photoPerso49.png,Rowan,Aytolisian (Prince),Lord,Épée,arme_epee.gif,,15
+50,photoPerso50.png,Lianna,Aytolisian (Princesse),Lord,Épée,arme_epee.gif,,15

@@ -6,7 +6,7 @@
     <?php include('import.php')?>
     <title>Fire Emblem - Acceuil</title>
   </head>
-  <body>
+  <body id="index-body">
     <?php include('header.php'); ?>
 
     <main>
