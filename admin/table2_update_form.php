@@ -27,7 +27,7 @@ $perso = $resultat->fetch();
 <br>
 <div class="container-form">
 <form class="form-ajout-modif" method="POST" enctype="multipart/form-data" action="table2_update_valide.php">
-		<input type="hidden" name="num" value="<?php echo $perso['personnages_id']; ?>"><br>
+		<input type="hidden" name="num" value="<?php echo $perso['jeux_id']; ?>"><br>
 		Jaquette: <input type="file" name="photo" required /><br />
 		Nom:<input type="text" name="nom" value="<?php echo $perso['jeux_nom']; ?>"><br>
     Plateforme:<input type="text" name="plat" value="<?php echo $perso['jeux_plateforme']; ?>"><br>
